@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.twa{
+    width: 100%;
+    display: flex;
+}
+.tu{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 50%;
+    gap: 20px;
+}
+.tu img{
+    width: 400px;
+}
+.tu p{
+    width: 400px;
+    font-weight: 600;
+}
+.tu h1{
+    margin-right: 290px;
+    font-family: sans-serif;
+}
